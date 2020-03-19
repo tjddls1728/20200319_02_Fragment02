@@ -26,5 +26,6 @@ public class Roomlistfragmant extends Fragment {
 //        프래그먼트의 동작 코드 -> 리스트뷰 뽑아주기
 
 
+
     }
 }
